@@ -9,7 +9,7 @@ The first step is to develop a basic prototype that assembles an MCA composed of
 - Memory: stores the machine genome (instructions for every module to work properly and in sync) and knowledge (AI models learned by the CL).
 - Continuous learning (CL): adds knowledge to the memory when training AI models fed by the user into the Attention.
 
-The first experiment to be done could be summarized as follows:
+The first experiment to be done is summarized as follows:
 1) The user trains an MLP-based model for learning a sequence of numbers
 2) The user asks the cognitron to learn the sequence of numbers recognition model
 3) The user asks to retrieve the pre-learned or learned sequence of numbers
