@@ -12,8 +12,9 @@ The first step is to develop a basic prototype that assembles an MCA composed of
 The first experiment to be done could be summarized as follows:
 1) The user trains an MLP-based model for learning a sequence of numbers
 2) The user asks the cognitron to learn the sequence of numbers recognition model
-3) The cognitron learns the sequence and returns the results of the learning to the user
-4) The user asks for the learned sequence of numbers
-5) Go to step 2
+3) The user asks to retrieve the pre-learned or learned sequence of numbers
+4) The user requests the cognitron for learning a new sequence of numbers
+5) The cognitron learns the new sequence and returns the results of the learning to the user
+6) Go to step 3
 
 --- MORE INFORMATION AVAILABLE SOON ---
