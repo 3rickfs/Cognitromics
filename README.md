@@ -7,7 +7,7 @@ Just mentioning repetitive tasks may sound like a too broad concept; however, Co
 The first step is to develop a basic prototype that assembles an MCA composed of three modules:
 - Attention: operates the MCA processes like memory and CL, and handles human requests.
 - Memory: stores the machine genome (instructions for every module to work properly and in sync) and knowledge (AI models learned by the CL).
-- Continuous learning (CL): adds knowledge to the memory when training AI models fed by the user into the Attention.
+- Continuous learning (CL): adds knowledge to the memory when training AI models fed by the user through the Attention module, or builds on top of an already learned model.
 
 The first experiment to be done is summarized as follows:
 1) The user trains an MLP-based model for learning a sequence of numbers
