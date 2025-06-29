@@ -1,6 +1,6 @@
 # Cognitromics
 
-Human-centered AI research and development project. Cognitromics utilizes an Artificial Cognitive System (ACS) and a genomics approach to create always-on (resembling living) human-like cognitive machines that contribute to helping people thrive in life, while promoting data privacy and carbon footprint reduction.
+Human-centered AI research and development project. Cognitromics utilizes an Artificial Cognitive System (ACS) and a genomics approach to create always-on (resembling living) human-like cognitive machines that contribute to human development, while promoting data privacy and carbon footprint reduction.
 
 Just mentioning repetitive tasks may sound like a too broad concept; however, Cognitromics aims to reproduce human learning flexibility and versatility in a way that any procedural task and logic could be potentially reproduced by a "congnitron" after undergoing a classic teacher-student-in-a-classroom training session(s). We define a cognitron as a Compound AI system that integrates AI models orchestrated by a Machine Cognitive Architecture (MCA). As a cognitron can also inhabit a local environment (i.e., personal computer or dedicated on-premise hardware) without an internet connection, it ensures compliance with data privacy regulations, reduces the carbon footprint, and improves the scalability of AI.
 
