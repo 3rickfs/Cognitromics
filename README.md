@@ -24,7 +24,7 @@
 ## About the project
 Nowadays, AI has been adopted by millions of people, even governments have begun to encourage and regulate the use of LLM-based chatbots in schools. This change comes with certain drawbacks that impact people's employment, data privacy, and intellectual property, as well as the environment and natural resources like water. As AI is a growing industry, it will become more popular over time, meaning that the problems may get worse if it remains unattended. 
 
-A more interesting value is not replacing people with AI to "automate" processes in a company, but giving them a tool that makes them more collaborative, creative, and impactful, so they can, as a team, target and achieve better project outcomes.
+A more interesting value is not replacing people with AI to "automate" processes and reduce costs in a company, but giving them a tool that makes them more collaborative, creative, and impactful, so they can, as a team, target and achieve better project outcomes.
 
 The name of the tool we proposed is Cognitromics, a human-centered AI research and development project. Cognitromics utilizes an Artificial Cognitive System (ACS) and a genomics approach to create always-on (resembling living) human-like cognitive machines that contribute to human development, while promoting data privacy and AI carbon footprint reduction.  
 
