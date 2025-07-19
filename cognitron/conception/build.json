@@ -17,9 +17,7 @@
     {
       "type": "shell",
       "inline": [
-        "apk update",
-        "apk add ansible",
-	"apk add git"
+        "apk update"
       ]
     },
     {
@@ -32,14 +30,7 @@
       "type": "file",
       "source": "{{user `cognitron_components`}}",
       "destination": "{{user `main_folder`}}"
-    },
-    {
-      "type": "ansible-local",
-      "staging_directory": "{{user `tmp_dir`}}/ansible",
-      "playbook_file": "playbook.yml",
-      "extra_arguments": [ "--extra-vars \"tmp_dir={{user `tmp_dir`}} \"" ]
     }
-
   ],
 
   "post-processors": [

@@ -1,0 +1,11 @@
+cognitron_conf_info:
+   - version: 1.0.0
+   - name: number_sequencer_cognitron
+
+key_directories:
+   - project_directory: /home/dev-1/dev/Cognitromics
+
+congnition_components:
+   - attention
+   - learning
+   - memory
